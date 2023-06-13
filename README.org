@@ -1,0 +1,10 @@
+* rucksack
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/rucksack/rucksack.git   |
+| commit  |   |
+| systems | rucksack |
+|---------+-------------------------------------------|
+
