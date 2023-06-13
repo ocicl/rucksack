@@ -1,10 +1,9 @@
 * rucksack
 
+Rucksack: a flexible, light weight, open source persistence library
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/rucksack/rucksack.git   |
-| commit  |   |
-| systems | rucksack |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/rucksack/rucksack.git |
+| commit  | ac2964f3e                                                |
+| systems | rucksack                                                 |
+|---------+----------------------------------------------------------|
