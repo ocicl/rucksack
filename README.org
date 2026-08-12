@@ -8,4 +8,4 @@ Rucksack: a flexible, light weight, open source persistence library
 | commit  | ac2964f                                                  |
 | systems | rucksack                                                 |
 |---------+----------------------------------------------------------|
- 
+  
